@@ -43,6 +43,11 @@ python3 eval.py  # 测试（时间较长）
 
 ![msr](images/2.png)
 
+
+F1：综合评价指标（F-Measure）
+可知F1综合了P和R的结果，当F1较高时则能说明试验方法比较有效。
+
+
 2. pku测试结果
 
 ![pku](images/3.png)
